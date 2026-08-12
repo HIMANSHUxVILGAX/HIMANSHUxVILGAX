@@ -63,16 +63,12 @@ Custom full-stack and web app solutions including an e-commerce platform and a g
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HIMANSHUxVILGAX&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HIMANSHUxVILGAX&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HIMANSHUxVILGAX&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HIMANSHUxVILGAX&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=HIMANSHUxVILGAX&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHUxVILGAX&theme=react-dark" width="100%" />
 </p>
