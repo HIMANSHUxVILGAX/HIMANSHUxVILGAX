@@ -3,8 +3,8 @@
 ### 🔐 Cybersecurity Enthusiast | SOC Analyst Aspirant | B.Tech CSE '27
 
 <p align="center">
-  <a href="https://him-aa-nshu.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=cyan" /></a>
-  <a href="https://linkedin.com/in/himanshu-badgujar-301678357"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://him-aa-nshu.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=cyan" /></a>
+  <a href="https://linkedin.com/in/himanshu-badgujar-301b78357"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hbadgujar517@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -48,27 +48,31 @@ Python-based security auditing tool designed to simulate automated login attempt
 ### 💻 [C++ Core Systems & Utilities](https://github.com/HIMANSHUxVILGAX)
 Object-oriented C++ software modules including Student Database Management System (**SDMS**), Library Data Management System (**LDMS**), and a Scientific Calculator.
 
-### 🌐 [Web Development & Freelance Portals](https://him-aa-nshu.netlify.app)
+### 🌐 [Web Development & Freelance Portals](https://him-aa-nshu.netlify.app/)
 Custom full-stack and web app solutions including an e-commerce platform and a game marketplace.
 
 ---
 
 ## 🌟 Connect & Socials
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu-badgujar-301678357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/himanshu-badgujar-301b78357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/himanshu_20th"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@REAL1917"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://him-aa-nshu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://him-aa-nshu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HIMANSHUxVILGAX&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHUxVILGAX&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HIMANSHUxVILGAX&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HIMANSHUxVILGAX&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HIMANSHUxVILGAX&theme=darkhub" />
+  <img src="https://streak-stats.demolab.com/?user=HIMANSHUxVILGAX&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHUxVILGAX&theme=react-dark" width="100%" />
 </p>
