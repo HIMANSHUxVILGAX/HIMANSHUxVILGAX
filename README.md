@@ -42,14 +42,14 @@
 
 ## 📌 Featured Projects
 
-### 🛡️ [NO-Ash — Unified Security & Developer Desktop App](https://github.com/HIMANSHUxVILGAX/NoAsh)
-5-module desktop security suite featuring a code editor, AI assistant, security scanner, honeypot system, and automated endpoint hardening using **Nmap**, **Lynis**, and **ClamAV**.
-
 ### 🔐 [AuthProbe — Authentication Security Auditing Tool](https://github.com/HIMANSHUxVILGAX)
 Python-based security auditing tool designed to simulate automated login attempts and evaluate credential security awareness.
 
 ### 💻 [C++ Core Systems & Utilities](https://github.com/HIMANSHUxVILGAX)
 Object-oriented C++ software modules including Student Database Management System (**SDMS**), Library Data Management System (**LDMS**), and a Scientific Calculator.
+
+### 🌐 [Web Development & Freelance Portals](https://him-aa-nshu.netlify.app)
+Custom full-stack and web app solutions including an e-commerce platform and a game marketplace.
 
 ---
 
